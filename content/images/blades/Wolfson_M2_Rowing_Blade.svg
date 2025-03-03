@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+I, the author of this work, hereby publish it under the following license:
+Permission is granted to copy, distribute and/or modify this document under the 
+terms of the GNU Free Documentation License, Version 1.2 or any later version 
+published by the Free Software Foundation; with no Invariant Sections, no 
+Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included 
+in the section entitled "GNU Free Documentation License".
+
+This file is based on the template originaly found here: 
+http://commons.wikimedia.org/wiki/Image:Rowing_Blade_Template.svg
+For help on editing this file, please see that url.
+
+Template by: Gary van der Merwe 2006
+Derived work by:                                   <- Put your name here!
+-->
+
+<svg
+   width="500"
+   height="230"
+   id="svg4726"
+   version="1.1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="Wolfson_M2_Rowing_Blade.svg"
+   inkscape:export-filename="Wadham_College_Rowing_Blade_White.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4771">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1544"
+     inkscape:window-height="846"
+     id="namedview4769"
+     showgrid="false"
+     inkscape:zoom="2.78"
+     inkscape:cx="311.33094"
+     inkscape:cy="110.61151"
+     inkscape:window-x="952"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g47816"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs4728">
+    <linearGradient
+       y2="15"
+       y1="-15"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient20280">
+      <stop
+         id="stop20282"
+         style="stop-color:#a217a6;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop20284"
+         style="stop-color:#c31ac7;stop-opacity:1;"
+         offset="0.44999999" />
+      <stop
+         id="stop20286"
+         style="stop-color:#861488;stop-opacity:1;"
+         offset="0.55000001" />
+      <stop
+         id="stop20288"
+         style="stop-color:#a217a6;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       spreadMethod="pad"
+       id="radialGradient20274"
+       cx="0"
+       cy="0"
+       r="77.459663"
+       gradientTransform="scale(2.5819889,0.38729833)"
+       fx="0"
+       fy="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.5"
+         style="stop-color:#a217a6;stop-opacity:0;"
+         id="stop20276" />
+      <stop
+         offset="0.94999999"
+         style="stop-color:#a217a6;stop-opacity:1;"
+         id="stop20278" />
+    </radialGradient>
+    <linearGradient
+       id="loomGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-14"
+       y2="14">
+      <stop
+         offset="0%"
+         style="stop-color:black;"
+         id="stop4731" />
+      <stop
+         offset="25%"
+         style="stop-color:lightgray;"
+         id="stop4733" />
+      <stop
+         offset="60%"
+         style="stop-color:black;"
+         id="stop4735" />
+    </linearGradient>
+    <!-- Ensure these colors match up with the background of the spoon-->
+    <path
+       id="spoonPath"
+       d="M 105,75 C 105,76 106,77 107,77 C 139,89 170,149 177,181 C 231,199 389,201 455,201 C 458,201 461,198 461,195 L 450,27 C 450,24 447,21 444,21 L 113,43 C 112,43 111,44 111,45  Z" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#loomGradient"
+       id="linearGradient16448"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(117,40.999999)"
+       y1="-14"
+       x2="0"
+       y2="14" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient20274"
+       id="radialGradient20215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5819889,0,0,0.38729833,116.99976,40.999762)"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="77.459663" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20280"
+       id="linearGradient20218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(116.99976,40.999762)"
+       y1="-15"
+       x2="0"
+       y2="15" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <use
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1.00157;stroke-dasharray:none"
+         id="use5"
+         strokewidth="1"
+         xlink:href="#spoonPath"
+         x="0"
+         y="0"
+         width="500"
+         height="230"
+         inkscape:label="spoon clip" />
+    </clipPath>
+  </defs>
+  <!-- loom of the blade -->
+  <!-- Any thing in here will be cliped to the shape of the spoon -->
+  <rect
+     style="fill:none"
+     id="background"
+     height="230"
+     width="500"
+     y="0"
+     x="0" />
+  <rect
+     style="fill:url(#linearGradient16448)"
+     transform="matrix(0.98768834,0.15643447,-0.15643447,0.98768834,0,0)"
+     x="-83"
+     y="27"
+     height="28"
+     width="200"
+     id="shaft" />
+  <g
+     id="g47816"
+     inkscape:label="spoon"
+     clip-path="url(#clipPath4)">
+    <use
+       style="fill:#a217a6;fill-opacity:1;stroke:#000000"
+       id="spoon_face"
+       strokewidth="1"
+       xlink:href="#spoonPath"
+       x="0"
+       y="0"
+       width="500"
+       height="230"
+       inkscape:label="spoon face" />
+    <rect
+       transform="matrix(0.98768834,0.15643447,-0.15643447,0.98768834,0,0)"
+       style="fill:url(#linearGradient20218);stroke:none"
+       id="transverse_gradient"
+       class="spoon"
+       width="200"
+       height="30"
+       y="25.999762"
+       x="116.99976" />
+    <rect
+       transform="matrix(0.98768834,0.15643447,-0.15643447,0.98768834,0,0)"
+       style="fill:url(#radialGradient20215);stroke:none"
+       id="longitudinal_gradient"
+       class="spoon"
+       width="200"
+       height="30"
+       y="25.999762"
+       x="116.99976" />
+    <g
+       id="g9"
+       inkscape:label="weird step"
+       transform="rotate(-4,400.26259,-55.630469)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.36324"
+         id="rect6"
+         width="143.52518"
+         height="207.91367"
+         x="365"
+         y="12.230216" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.669461"
+         id="rect7"
+         width="86"
+         height="85"
+         x="280"
+         y="114.7482" />
+    </g>
+  </g>
+  <!-- Outline of the spoon -->
+  <use
+     style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1.0015748;stroke-dasharray:none"
+     id="use4"
+     strokewidth="1"
+     xlink:href="#spoonPath"
+     x="0"
+     y="0"
+     width="500"
+     height="230"
+     inkscape:label="spoon outline" />
+</svg>

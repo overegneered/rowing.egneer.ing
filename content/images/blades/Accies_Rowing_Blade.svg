@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+I, the author of this work, hereby publish it under the following license:
+Permission is granted to copy, distribute and/or modify this document under the 
+terms of the GNU Free Documentation License, Version 1.2 or any later version 
+published by the Free Software Foundation; with no Invariant Sections, no 
+Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included 
+in the section entitled "GNU Free Documentation License".
+
+This file is based on the template originaly found here: 
+http://commons.wikimedia.org/wiki/Image:Rowing_Blade_Template.svg
+For help on editing this file, please see that url.
+
+Template by: Gary van der Merwe 2006
+Derived work by:  Jono Watkins 2008
+-->
+
+<svg
+   width="500"
+   height="230"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="Accies_Rowing_Blade.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.78"
+     inkscape:cx="265.16854"
+     inkscape:cy="114.88764"
+     inkscape:window-width="1416"
+     inkscape:window-height="1046"
+     inkscape:window-x="342"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="loomGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-14"
+       y2="14">
+      <stop
+         offset="0%"
+         stop-color="black"
+         id="stop1" />
+      <stop
+         offset="25%"
+         stop-color="lightgray"
+         id="stop2" />
+      <stop
+         offset="60%"
+         stop-color="black"
+         id="stop3" />
+    </linearGradient>
+    <!-- Ensure these colors match up with the background of the spoon-->
+    <linearGradient
+       id="ridgeGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-15"
+       y2="15">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop4" />
+      <stop
+         offset="0.44999999"
+         style="stop-color:#161616;stop-opacity:1;"
+         id="stop5" />
+      <stop
+         offset="0.55000001"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop6" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop7" />
+    </linearGradient>
+    <radialGradient
+       id="fadeRidgeGradient"
+       cx="0%"
+       cy="50%"
+       r="100%">
+      <stop
+         offset="0.5"
+         stop-color="#010178"
+         stop-opacity="0"
+         id="stop8"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         offset="0.94999999"
+         stop-color="#010178"
+         id="stop9"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </radialGradient>
+    <path
+       id="spoonPath"
+       d="M 105,75 C 105,76 106,77 107,77 C 139,89 170,149 177,181 C 231,199 389,201 455,201 C 458,201 461,198 461,195 L 450,27 C 450,24 447,21 444,21 L 113,43 C 112,43 111,44 111,45  Z" />
+    <clipPath
+       id="spoonClip">
+      <use
+         xlink:href="#spoonPath"
+         id="use9" />
+    </clipPath>
+  </defs>
+  <!-- loom of the blade -->
+  <rect
+     x="0"
+     y="-14"
+     height="28"
+     width="200"
+     fill="url(#loomGradient)"
+     transform="rotate(9) translate(-83,41)"
+     id="rect9" />
+  <!-- Any thing in here will be cliped to the shape of the spoon -->
+  <g
+     clip-rule="nonzero"
+     clip-path="url(#spoonClip)"
+     id="g14">
+    <!-- Background of the spoon -->
+    <rect
+       fill="#010178"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       id="rect10"
+       style="fill:#000000;fill-opacity:1" />
+    <!-- Ridge on the spoon -->
+    <g
+       transform="rotate(9) translate(117,41)"
+       id="g12">
+      <rect
+         x="0"
+         y="-15"
+         height="30"
+         width="200"
+         class="spoon"
+         stroke="none"
+         fill="url(#ridgeGradient)"
+         id="rect11" />
+      <rect
+         x="0"
+         y="-15"
+         height="30"
+         width="200"
+         class="spoon"
+         stroke="none"
+         fill="url(#fadeRidgeGradient)"
+         id="rect12" />
+    </g>
+    <g
+       transform="rotate(-4) translate(400,20)"
+       id="g13">
+      <path
+         d="M 0,0 l 0,300 "
+         style="stroke:#d81217;stroke-width:30;fill:none;stroke-opacity:1"
+         id="path12" />
+    </g>
+  </g>
+  <!-- Outline of the spoon -->
+  <use
+     xlink:href="#spoonPath"
+     stroke="Black"
+     strokewidth="1"
+     fill="none"
+     id="use14" />
+</svg>
