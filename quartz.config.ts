@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: false,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Fira Sans",
         body: "Fira Sans",
         code: "Fira Code",
       },
