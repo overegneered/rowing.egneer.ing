@@ -9,7 +9,7 @@ title: Useful links
 | [OURCs flags page](https://ourcs.co.uk/information/flags/)                                                  | The current official flag level and the restrictions they impose.                                                                                                                                                           |
 | [Anu Dudhia's Isis level tracking and predictions](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/river.html) | Various methods of tracking the current flag on the Isis and predictions of where it will go in the next few days.                                                                                                          |
 | [Jameson Lee's flag predictions](https://flags.jamesonlee.com)                                              | Graphs of relevant lock differentials as a measure of stream for the Isis, Godstow, Radley, Abingdon, and Wallingford stretches. The Isis and Godstow graphs also provide predictions for flags based on the differentials. |
-| [Environment Agency lock boards](https://www.gov.uk/guidance/river-thames-current-river-conditions)         | Lock boards on the Thames. Not directly relevant to flags, but necessary for [[Transiting\|transits]].                                                                                                                      |
+| [Environment Agency lock boards](https://www.gov.uk/guidance/river-thames-current-river-conditions)         | Lock boards on the Thames. Not directly relevant to flags, but necessary for [[Transiting\|transits]]. Particularly relevant are the Godstow to Osney, Osney to Iffley, and Iffley to Sandford reaches.                     |
 
 ## Following [[bumps racing|bumps]]
 
@@ -21,6 +21,14 @@ title: Useful links
 | [Anu Dudhia's Torpids page](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/torpids/) | Pretty much all information you could want to know about the current (or most recent) [[torpids]] event (including starting orders, rowing on results, etc.).               |
 | [Anu Dudhia's Eights page](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/eights/)   | Pretty much all information you could want to know about the current (or most recent) [[Summer Eights\|Eights]] event (including starting orders, rowing on results, etc.). |
 | [OURCs Rules of Racing](https://ourcs.co.uk/organisation/racing/)                  | In particular see §A3 for the rules of bumps racing.                                                                                                                        |
+
+## Racing
+
+| Link                                                                                                                               | Description                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [David Biddulph's rowing calendars](https://biddulph.org.uk/rowing.htm#calendars)                                                  | Comprehensive list of rowing regattas in the United Kingdom by year.                                                                                       |
+| [OURCs Rules of Racing](https://ourcs.co.uk/organisation/racing/)                                                                  | Rules by which all OURCs events (including [[bumps racing\|bumps]]) are run.                                                                               |
+| [British Rowing rules of Racing](https://www.britishrowing.org/wp-content/uploads/2025/03/2025-British-Rowing-Rules-of-Racing.pdf) | Rules by which all British Rowing events (essentially all external regattas) are run. (this points to the 2025 Rules of Racing, in effect from 2025-04-01) |
 
 ## Miscellaneous
 

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+I, the author of this work, hereby publish it under the following license:
+Permission is granted to copy, distribute and/or modify this document under the 
+terms of the GNU Free Documentation License, Version 1.2 or any later version 
+published by the Free Software Foundation; with no Invariant Sections, no 
+Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included 
+in the section entitled "GNU Free Documentation License".
+
+This file is based on the template originaly found here: 
+http://commons.wikimedia.org/wiki/Image:Rowing_Blade_Template.svg
+For help on editing this file, please see that url.
+
+Template by: Gary van der Merwe 2006
+Derived work by:                                   <- Put your name here!
+-->
+
+<svg
+   width="500"
+   height="230"
+   id="svg4726"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4771">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4728">
+    <linearGradient
+       y2="15"
+       y1="-15"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient20280">
+      <stop
+         id="stop20282"
+         style="stop-color:#add8e6;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop20284"
+         style="stop-color:#bbdfec;stop-opacity:1;"
+         offset="0.44999999" />
+      <stop
+         id="stop20286"
+         style="stop-color:#99c3cb;stop-opacity:1;"
+         offset="0.55000001" />
+      <stop
+         id="stop20288"
+         style="stop-color:#add8e6;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       spreadMethod="pad"
+       id="radialGradient20274"
+       cx="0"
+       cy="0"
+       r="77.459663"
+       gradientTransform="scale(2.5819889,0.38729833)"
+       fx="0"
+       fy="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.5"
+         style="stop-color:#add8e6;stop-opacity:0;"
+         id="stop20276" />
+      <stop
+         offset="0.94999999"
+         style="stop-color:#add8e6;stop-opacity:1;"
+         id="stop20278" />
+    </radialGradient>
+    <linearGradient
+       id="loomGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-14"
+       y2="14">
+      <stop
+         offset="0"
+         style="stop-color:#703a16;stop-opacity:1;"
+         id="stop4731" />
+      <stop
+         offset="0.25"
+         style="stop-color:#d87943;stop-opacity:1;"
+         id="stop4733" />
+      <stop
+         offset="0.60000002"
+         style="stop-color:#703a16;stop-opacity:1;"
+         id="stop4735" />
+    </linearGradient>
+    <!-- Ensure these colors match up with the background of the spoon-->
+    <path
+       id="spoonPath"
+       d="M 105,75 C 105,76 106,77 107,77 C 139,89 170,149 177,181 C 231,199 389,201 455,201 C 458,201 461,198 461,195 L 450,27 C 450,24 447,21 444,21 L 113,43 C 112,43 111,44 111,45  Z" />
+    <linearGradient
+       xlink:href="#loomGradient"
+       id="linearGradient16448"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(117,51.612143)"
+       y1="-14"
+       x2="0"
+       y2="14" />
+    <radialGradient
+       xlink:href="#radialGradient20274"
+       id="radialGradient20215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5819889,1.2888788e-8,0,0.35391899,116.29976,51.319368)"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="77.459663" />
+    <linearGradient
+       xlink:href="#linearGradient20280"
+       id="linearGradient20218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.90989741,116.29976,51.260606)"
+       y1="-15"
+       x2="0"
+       y2="15" />
+  </defs>
+  <!-- loom of the blade -->
+  <!-- Any thing in here will be cliped to the shape of the spoon -->
+  <rect
+     style="fill:none"
+     id="background"
+     height="230"
+     width="500"
+     y="0"
+     x="0" />
+  <!-- Outline of the spoon -->
+  <g
+     id="g1"
+     transform="rotate(-9,364.38941,112.47825)">
+    <rect
+       style="fill:url(#linearGradient16448)"
+       x="-83"
+       y="37.612144"
+       height="28"
+       width="200"
+       id="shaft"
+       transform="rotate(9.0000003)" />
+    <g
+       id="g47816">
+      <path
+         id="spoon_face"
+         d="M 103.7546,82.863122 C 274.12604,138.25904 443.25866,163.208 482.58383,169.18787 L 495.09859,90.172802 C 453.32191,84.468035 287.83845,57.212209 108.13514,55.207908 Z"
+         style="fill:#add8e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+      <rect
+         style="fill:url(#linearGradient20218);stroke:none;stroke-width:0.953885"
+         id="transverse_gradient"
+         class="spoon"
+         width="200"
+         height="27.296923"
+         y="37.612144"
+         x="116.29976"
+         transform="rotate(9)" />
+      <rect
+         style="fill:url(#radialGradient20215);stroke:none;stroke-width:0.955937"
+         id="longitudinal_gradient"
+         class="spoon"
+         width="200"
+         height="27.414448"
+         y="37.612144"
+         x="116.29976"
+         transform="rotate(9)" />
+    </g>
+    <g
+       id="layer1"
+       transform="matrix(0.62828766,0.14505164,-0.14505164,0.62828766,214.33019,-8.8435394)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.168788;stroke-opacity:1"
+         d="m 368.56875,74.618166 23.33892,7.442753 22.03352,-10.706235 -8.89939,34.839746 33.21735,-13.785261 -5.93035,23.230141 9.19381,22.14231 -34.8491,-8.90098 13.79458,33.21895 -23.23013,-5.93033 -22.14232,9.19381 8.89165,-34.85068 -33.2096,13.79621 7.44279,-23.33893 -10.70623,-22.033555 34.84148,8.892305 z"
+         id="path6441" />
+    </g>
+  </g>
+</svg>
