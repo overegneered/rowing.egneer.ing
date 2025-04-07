@@ -24,7 +24,7 @@ There are three general types of blade, differing in their spoon shape. These ar
 | **Macon**                    | A slightly rounder version of the square blade, these are pretty rare to see nowadays, having been pushed out by the faster and more efficient cleaver design. | ![[Wadham_College_Rowing_Blade_Blue_Macon.svg]]  |
 | **Square**                   | The original shape from the 1800s, now very rarely seen. Very long and thin, and made out of wood.                                                             | ![[Wadham_College_Rowing_Blade_Blue_Square.svg]] |
 
-### Types of cleaver blades
+### Types of cleaver blade
 
 Within the category of cleaver, there are several subcategories. This market is pretty comprehensively dominated by Concept2, so it makes sense to simply link to [their page](https://www.concept2.com/oars/sculls/blades) on the matter.
 

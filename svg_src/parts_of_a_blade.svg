@@ -33,14 +33,14 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.73257339"
-     inkscape:cx="1253.7993"
-     inkscape:cy="221.82078"
+     inkscape:cx="1253.1168"
+     inkscape:cy="222.5033"
      inkscape:window-width="2560"
-     inkscape:window-height="1416"
+     inkscape:window-height="1387"
      inkscape:window-x="1512"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer6"
      inkscape:export-bgcolor="#ffffffff"
      labelstyle="default"
      inkscape:clip-to-page="false"><sodipodi:guide
@@ -634,7 +634,7 @@
        inkscape:label="grips text"><tspan
          sodipodi:role="line"
          id="tspan70"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="14.173451"
          y="15.732906">grips</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-2)"
@@ -649,7 +649,7 @@
        id="text70-3"
        inkscape:label="collar text"><tspan
          id="tspan70-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="146.23149"
          y="15.217437"
          sodipodi:role="line">collar</tspan></text><path
@@ -666,7 +666,7 @@
        inkscape:label="sleeve text"><tspan
          sodipodi:role="line"
          id="tspan71"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="228.29933"
          y="14.157298">sleeve</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-2-6-5)"
@@ -682,7 +682,7 @@
        inkscape:label="shaft text"><tspan
          sodipodi:role="line"
          id="tspan70-6-42"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="365.17886"
          y="15.747506">shaft</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-2-6-5-5)"
@@ -698,7 +698,7 @@
        inkscape:label="spoon text"><tspan
          sodipodi:role="line"
          id="tspan70-6-42-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="497.07181"
          y="12.969686">spoon</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DartArrow);marker-end:url(#DartArrow)"
@@ -713,7 +713,7 @@
        id="text70-9"
        inkscape:label="handle text"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="20.839434"
          y="70.377922"
          id="tspan72">handle</tspan></text><path
@@ -728,7 +728,7 @@
        y="94.127213"
        id="text70-3-7"
        inkscape:label="inboard text"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="71.159164"
          y="94.127213"
          sodipodi:role="line"
@@ -739,7 +739,7 @@
        y="94.45517"
        id="text70-3-7-1"
        inkscape:label="inboard text"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
          x="379.9801"
          y="94.45517"
          sodipodi:role="line"
