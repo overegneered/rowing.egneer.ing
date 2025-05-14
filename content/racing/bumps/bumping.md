@@ -13,14 +13,14 @@ A bump can occur in four ways[^1]:
 3. The crew behind rows completely past the crew in front
 4. The crew behind finishes before the crew in front
 
-In [[torpids]], the second bumping method is most prevalent, as the crew being bumped is incentivised to be able to row away cleanly (see [[#What happens on a bump?]]). In [[Summer Eights|Eights]], it's all to play for, and coxes typically have to force a bump through contact.
+In [[torpids|Torpids]], the second bumping method is most prevalent, as the crew being bumped is incentivised to be able to row away cleanly (see [[#What happens on a bump?]]). In [[summer eights|Eights]], it's all to play for, and coxes typically have to force a bump through contact.
 
 ## What happens on a bump?
 
-In all formats of bumps racing, the crew that bumped exits the race (called **bumping out**). In [[torpids]], the crew that got bumped *keeps rowing*, remains live, and is able to be bumped again if caught by another crew. In [[Summer Eights|Eights]], this is not the case and both crews stop rowing.
+In all formats of bumps racing, the crew that bumped exits the race (called **bumping out**). In [[torpids|Torpids]], the crew that got bumped *keeps rowing*, remains live, and is able to be bumped again if caught by another crew. In [[summer eights|Eights]], this is not the case and both crews stop rowing.
 
 ## Overbumps
 
-In the event that the crew in front of you bumps out, it is still possible to bump; you just need to catch the next live crew. Doing so is called an **overbump** (as you bumped over another crew). The rules around resolving overbumps can get quite complex (especially in [[torpids]], but in general follow common sense.
+In the event that the crew in front of you bumps out, it is still possible to bump; you just need to catch the next live crew. Doing so is called an **overbump** (as you bumped over another crew). The rules around resolving overbumps can get quite complex (especially in [[torpids|Torpids]]), but in general follow common sense.
 
 [^1]: OURCs Rules of Racing §A2.13.a, accessed 2025-02-22

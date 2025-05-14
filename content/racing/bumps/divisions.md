@@ -4,13 +4,13 @@ aliases:
   - sandwich boat
 ---
 
-In order to facilitate racing over 75 boats on each side, the [[Start order|starting order]] is split into more manageable **divisions** (often shortened to '**div**') of 12 boats, numbered consecutively from the top, starting at one. [[torpids|Torpids]] has six divisions per side (i.e. Open and Women's) and [[Summer Eights|Eights]] has seven.
+In order to facilitate racing over 75 boats on each side, the [[Start order|starting order]] is split into more manageable **divisions** (often shortened to '**div**') of 12 boats, numbered consecutively from the top, starting at one. [[torpids|Torpids]] has six divisions per side (i.e. Open and Women's) and [[summer eights|Eights]] has seven.
 
 ## Division timings
 
-On any given day, divisions are run from bottom to top (i.e. from division six or seven at around 12:00 to division one around 18:00). In [[Summer Eights|Eights]], all divisions are an *hour earlier* on the Saturday to allow the organisers time to reopen the river and to give rowers more time to prepare for the evening festivities with the additional division.
+On any given day, divisions are run from bottom to top (i.e. from division six or seven at around 12:00 to division one at around 18:00). In [[summer eights|Eights]], all divisions are an *hour earlier* on the Saturday to allow the organisers time to reopen the river and to give rowers more time to prepare for the evening festivities ([[torpids|Torpids]], having one fewer division, doesn't require this).
 
-Divisions run at quarter to and quarter past the hour, and alternate between Open and Women's. The side that gets which timing alternates between events, with a separate tracker for Torpids and Eights. For ease, I've tabulated the side expected to take the quarter *past* slot for the next few years below.
+Divisions run at quarter to and quarter past the hour, and alternate between Open and Women's. The side that gets which timing alternates between events, with a separate tracker for Torpids and Eights. I've tabulated the side expected to take the quarter *past* slot for the next few years below.
 
 | Year | Torpids | Eights |
 | ---- | ------- | ------ |
@@ -30,9 +30,9 @@ Being a sandwich boat is no enviable task — the requirement to row in two divi
 
 ## Fixed and Rowing On divisions
 
-Within each side, the top four the **fixed divisions**, and remain constant between years (with the exception of [[scratching|scratches]] and re-insertions), owing to the fact that crews in these divisions are more reliably entered into racing.
+Within each side, the top four are the **fixed divisions**, and remain constant between years (with the exception of [[scratching|scratches]] and re-insertions), owing to the fact that crews in these divisions are more reliably entered into racing.
 
-The bottom two/three divisions are the **Rowing On divisions**, because participation in them requires successful completion of the [[Rowing On]] qualifying race. This allows new crews to enter the start order.
+The bottom two/three divisions are the **Rowing On divisions**, because participation in them requires successful completion of the [[rowing on]] qualifying race. This allows new crews to enter the start order.
 
 ## Half divisions
 

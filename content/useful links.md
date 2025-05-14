@@ -19,7 +19,7 @@ title: Useful links
 | [Racedesk Live](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/racedesk.html)        | Live commentary and unofficial results.                                                                                                                                     |
 | [Racedesk BlueSky](https://bsky.app/profile/racedesk.bsky.social)                  | Official live results.                                                                                                                                                      |
 | [Anu Dudhia's Torpids page](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/torpids/) | Pretty much all information you could want to know about the current (or most recent) [[torpids]] event (including starting orders, rowing on results, etc.).               |
-| [Anu Dudhia's Eights page](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/eights/)   | Pretty much all information you could want to know about the current (or most recent) [[Summer Eights\|Eights]] event (including starting orders, rowing on results, etc.). |
+| [Anu Dudhia's Eights page](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/eights/)   | Pretty much all information you could want to know about the current (or most recent) [[summer eights\|Eights]] event (including starting orders, rowing on results, etc.). |
 | [OURCs Rules of Racing](https://ourcs.co.uk/organisation/racing/)                  | In particular see §A3 for the rules of bumps racing.                                                                                                                        |
 
 ## Racing

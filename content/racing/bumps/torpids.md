@@ -1,9 +1,11 @@
 ---
 title: Torpids
+aliases:
+  - Torpids
 ---
 **Torpids** is a [[bumps racing|bumps race]] that runs in Hilary (Spring) Term, normally in seventh week, though it is run in sixth week where this would clash with WeHORR. It is the major regatta of the college rowing calendar for its term.
 
-## Differences to [[Summer Eights|Summer Eights]]
+## Differences to [[summer eights|summer eights]]
 
 Though the format is mostly the same, there are a few notable differences between Torpids and Eights:
 
