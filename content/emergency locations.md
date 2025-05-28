@@ -11,11 +11,11 @@ The below are the easiest places to get an ambulance in the event one is needed 
 
 ### The Isis
 
-| Location                     | what3words address                                                           | Notes                                                        |
-| ---------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Donnington bridge, city side | [`///leaps.gravy.punt`](https://www.what3words.com/leaps.gravy.punt)         |                                                              |
-| Consortium boathouse         | [`///undulation.quick.found`](https://what3words.com/undulation.quick.found) | Call Christ Church on 01865 276150 for access to the Meadows |
-| Univ boathouse               | [`///visits.icon.pushes`](https://www.what3words.com/visits.icon.pushes)     |                                                              |
+| Location                      | what3words address                                                           | Notes                                                        |
+| ----------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Donnington bridge, city side  | [`///leaps.gravy.punt`](https://www.what3words.com/leaps.gravy.punt)         |                                                              |
+| Consortium (Wadham) boathouse | [`///undulation.quick.found`](https://what3words.com/undulation.quick.found) | Call Christ Church on 01865 276150 for access to the Meadows |
+| Univ boathouse                | [`///visits.icon.pushes`](https://www.what3words.com/visits.icon.pushes)     |                                                              |
 
 ### Godstow
 
