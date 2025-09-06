@@ -14,7 +14,7 @@ There's not too much terminology here, and there's even less you realistically n
 
 Quite often you'll see bands of electrical tape wrapped around the shaft. If placed very near to the spoon, these are to act as a guide for blade depth — typically rowers aim to keep the tape on the surface. If next to the sleeve, these typically indicate who the blades are to be used by. For example, my club uses the following system: the colour tells you the side, white for women and blue for open, and the number of bands tells you the boat (and so e.g. two white bands tells you they're the second women's blades).
 
-## Types of blade
+## Types of blade/spoon
 
 There are three general types of blade, differing in their spoon shape. These are tabulated below.
 
@@ -36,4 +36,4 @@ Although there are a vast number of options out there, most clubs use one of the
 - Rubber is extremely grippy (sometimes *too* grippy[^1]) and very durable and easy to clean.
 - Wood gets very slippy when wet and tends to be thicker than the other grip options. I'm personally not a big fan of wooden grips, but others like them.
 
-[^1]: I've never come away from an outing with rubber grips without new blisters. Then again, maybe my hands are just being babied by microfibre and just need to toughen up a bit!
+[^1]: I've never come away from an outing with rubber grips without new blisters. Then again, maybe my hands are just being babied by microfibre and need to toughen up a bit!
