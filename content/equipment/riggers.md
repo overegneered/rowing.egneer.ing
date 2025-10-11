@@ -8,7 +8,7 @@ draft: false
 
 ![[multistay_rigger_assembly.svg]]
 
-The important terminology here is **backstay**, **gate**, and **topnut**. **Pin** might be useful for detailed discussions with your [[boatspeople|boatsperson]]. **Forestay** and **midstay** are only really useful for boat nerds, and are only present on multi-stay [[#Types of riggers|rigger types]]. ^4b3288
+The important terminology here is **backstay**, **gate**, and **topnut**. The **pin** is the rod the gate is attached to and swivels around, and the word might be useful for detailed discussions with your [[boatspeople|boatsperson]]. **Forestay** and **midstay** are only really useful for boat nerds, and are only present on multi-stay [[#Types of riggers|rigger types]]. ^4b3288
 
 > [!note]
 > In North America, the gate is instead called an **oarlock**.
