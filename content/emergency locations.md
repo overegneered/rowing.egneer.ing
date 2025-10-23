@@ -11,11 +11,11 @@ The below are the easiest places to get an ambulance in the event one is needed 
 
 ### The Isis
 
-| Location                      | what3words address                                                           | Notes                                                        |
-| ----------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Donnington bridge, city side  | [`///leaps.gravy.punt`](https://www.what3words.com/leaps.gravy.punt)         |                                                              |
-| Consortium (Wadham) boathouse | [`///undulation.quick.found`](https://what3words.com/undulation.quick.found) | Call Christ Church on 01865 276150 for access to the Meadows |
-| Univ boathouse                | [`///visits.icon.pushes`](https://www.what3words.com/visits.icon.pushes)     |                                                              |
+| Location                                 | what3words address                                                           | Notes                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Donnington bridge, city side             | [`///leaps.gravy.punt`](https://www.what3words.com/leaps.gravy.punt)         |                                                              |
+| Wadham/St Anne's/St Hugh's boathouse[^1] | [`///undulation.quick.found`](https://what3words.com/undulation.quick.found) | Call Christ Church on 01865 276150 for access to the Meadows |
+| Univ boathouse                           | [`///visits.icon.pushes`](https://www.what3words.com/visits.icon.pushes)     |                                                              |
 
 ### Godstow
 
@@ -48,3 +48,5 @@ Below is a list of the defibrillators nearby the Isis and Godstow. If you're els
 | Location                     | what3words address                                                     | Notes                              |
 | ---------------------------- | ---------------------------------------------------------------------- | ---------------------------------- |
 | SES clubroom (driveway side) | [`///likes.tanks.exile`](https://www.what3words.com/likes.tanks.exile) | Ask your club captain for the code |
+
+[^1]: This is the one on the upstream end of Boathouse Island

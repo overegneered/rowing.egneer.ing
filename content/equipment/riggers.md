@@ -17,7 +17,7 @@ The rigger is oriented such that the backstay is at the back from the perspectiv
 
 Also note that there are *two* sets of mounting holes, in two pairs of a top and bottom hole. This is to make the same rigger applicable to multiple rower heights. When mounted on the top holes, the rigger sits lower, and is thus better for shorter crews. When mounted on the bottom hole, the opposite applies. As such, a general rule of thumb is:
 
-> [!note] Rule of thumb
+> [!tip] Rule of thumb
 > *When rigging a boat for a women's crew, use the top holes. When rigging for an open crew, use the bottom holes.*
 
 ## Types of riggers
