@@ -21,7 +21,7 @@ There are three general types of blade, differing in their spoon shape. These ar
 | Name                         | Notes                                                                                                                                                          | Image                                            |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | **Cleaver** (or **hatchet**) | By far the most common type nowadays. Resembles a meat cleaver (hence the name).                                                                               | ![[Wadham_College_Rowing_Blade_Blue.svg]]        |
-| **Macon**                    | A slightly rounder version of the square blade, these are pretty rare to see nowadays, having been pushed out by the faster and more efficient cleaver design. | ![[Wadham_College_Rowing_Blade_Blue_Macon.svg]]  |
+| **Macon**                    | A slightly rounder version of the square blade. These are pretty rare to see nowadays, having been pushed out by the faster and more efficient cleaver design. | ![[Wadham_College_Rowing_Blade_Blue_Macon.svg]]  |
 | **Square**                   | The original shape from the 1800s, now very rarely seen. Very long and thin, and made out of wood.                                                             | ![[Wadham_College_Rowing_Blade_Blue_Square.svg]] |
 
 ### Types of cleaver blade
