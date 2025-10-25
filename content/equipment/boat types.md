@@ -7,7 +7,7 @@ Rowing boats (or **shells** as they're also known) are broadly split into catego
 - How many [[blades|blades]] each person is holding; and
 - How many rowers sit in the boat (usually a power of 2).
 
-The presence of a cox  also makes a difference, with coxed typically being the default assumption — a boat without a cox is then said to be **uncoxed**. Note that this does not apply to singles, doubles, or pairs, as these are never coxed.
+The presence of a [[coxing|cox]] also makes a difference, with coxed typically being the default assumption — a boat without a cox is then said to be **uncoxed**. Note that this does not apply to singles, doubles, or pairs, as these are never coxed.
 
 ## [[sweeping|Sweep]] boats
 
@@ -35,3 +35,9 @@ In sculling boats, or **sculls**, each rower has two [[blades|blades]]. Boats of
 ## Small boats
 
 **Small boats** are defined as boats with two or fewer rowers (that is, **singles**, **doubles**, and **pairs**). Small boats enjoy particular freedom on the Isis, and are not subject to the [[river restrictions|Proctor's closure]] during weekdays.
+
+## Bowloaders vs sternloaders
+
+Boats that have a [[coxing|cox]] are normally **sternloaders**: they have the cox at the stern of the boat. This makes it a little harder for the cox to see, but is much more comfortable for the cox as they can sit up. It's also safer in the event of a head-on collision and allows the cox to see the crew so they can coach them more effectively.
+
+Some boats are what are called **bowloaders**. These have the cox in the bow, generally lying down such that their legs extend out underneath the canvas. [[#sweeping Sweep boats|Fours]] are particularly common to be bowloaded, but bowloading [[#sweeping Sweep boats|eights]] also exist (though you won't see them around Oxford, as they are banned from [[bumps racing|bumps regattas]]).

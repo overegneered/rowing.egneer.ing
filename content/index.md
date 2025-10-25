@@ -13,6 +13,6 @@ This is my attempt to transfer as much of my rowing knowledge as possible to the
 ## Quick links
 
 - [[blade colours|Blade colours]]
+- [[patching up blisters|Patching up blisters]]
 - [[emergency locations|Emergency locations]]
-- [[torpids|Torpids]]
-- [[summer eights|Summer Eights]]
+
