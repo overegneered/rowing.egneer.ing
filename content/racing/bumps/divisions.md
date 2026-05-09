@@ -2,9 +2,10 @@
 title: Divisions
 aliases:
   - sandwich boat
+  - Div
 ---
 
-In order to facilitate racing over 75 boats on each side, the [[Start order|starting order]] is split into more manageable **divisions** (often shortened to '**div**') of 12 boats, numbered consecutively from the top, starting at one. [[torpids|Torpids]] has six divisions per side (i.e. Open and Women's) and [[summer eights|Eights]] has seven.
+In order to facilitate racing over 75 boats on each side, the [[Start order|starting order]] of [[bumps racing]] is split into more manageable **divisions** (often shortened to '**Div**') of 12 boats, numbered consecutively from the top, starting at one. [[torpids|Torpids]] has six divisions per side (i.e. Open and Women's) and [[summer eights|Eights]] has seven.
 
 ## Division timings
 
@@ -15,12 +16,12 @@ Divisions run at quarter to and quarter past the hour, and alternate between Ope
 | Year | Torpids | Eights |
 | ---- | ------- | ------ |
 | 2025 | Women   | Women  |
-| 2026 | Open    | Open   |
-| 2027 | Women   | Women  |
-| 2028 | Open    | Open   |
+| 2026 | —       | Open   |
+| 2027 | Open    | Women  |
+| 2028 | Women   | Open   |
 
 > [!note]
-> The alternation is between *events*, not necessarily years! That means that, should Torpids be cancelled in 2026, the Open divisions would then be expected to take the quarter past slot in 2027!
+> The alternation is between *events*, not necessarily years! That means that, should Torpids be cancelled in 2027, the Open divisions would then be expected to take the quarter past slot in 2028!
 
 ## Sandwich boats
 

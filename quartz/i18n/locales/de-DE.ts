@@ -67,7 +67,7 @@ export default {
     },
     error: {
       title: "Nicht gefunden",
-      notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht.",
+      notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht. Höchstwahrscheinlich habe ich die noch nicht geschrieben!",
       home: "Zur Startseite",
     },
     folderContent: {

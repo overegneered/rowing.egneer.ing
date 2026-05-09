@@ -26,12 +26,12 @@ As alluded to [[#^4b3288|above]], riggers come in several types. For a long time
 
 ## Taking care of riggers
 
-The main thing to remember when dealing with riggers (as with any mechanical joint) is to loosen a joint before moving it. In particular:
+The main thing to remember when dealing with riggers (as with any mechanical joint) is to loosen them before moving them. In particular:
 
 > [!warning]
-> *Remember to loosen the topnut before moving the backstay*
+> ***Remember to loosen the topnut before moving the backstay!***
 
-Otherwise, the torsion on the pin loosens it over time. After too many instances, you end up with the situation below — a snapped pin.
+Otherwise, the torsion on the pin weakens it over time. After too many cycles, you end up with a snapped pin (as I found out the hard way — see below).
 
 ![[snapped_pin.jpeg]]
 
